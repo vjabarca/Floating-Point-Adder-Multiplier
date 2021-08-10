@@ -1,0 +1,12 @@
+fpam script run started on Fri Mar 11 01:16:34 2016
+run on machine eecad16.engr.sjsu.edu
+
+Run with a clock period of 3.3
+student names
+  Victor J Abarca  4634
+options syn False gates False
+VCS simulation worked
+NCverilog simulation worked
+Synthesis finished OK
+Gate level simulation worked
+Completed the fpam run
